@@ -1,0 +1,24 @@
+{
+  "name": "berr2243",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000E\u0000X\u0000E\u0000R\u0000C\u0000I\u0000S\u0000E\u00001\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AGI141/EXERCISE1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AGI141/EXERCISE1/issues"
+  },
+  "homepage": "https://github.com/AGI141/EXERCISE1#readme",
+  "dependencies": {
+    "mongodb": "^6.15.0"
+  }
+}
